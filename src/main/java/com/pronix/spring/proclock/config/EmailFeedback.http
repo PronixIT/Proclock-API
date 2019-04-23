@@ -1,0 +1,11 @@
+POST http://localhost:1234//proClock/Feebback/sendFeedback
+
+Content-Type:application/json
+
+{
+"name":"DAN",
+"email":"dan@gmail.com",
+"feedback":"you app is awesome"
+}
+
+###
